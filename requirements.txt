@@ -4,4 +4,4 @@ nltk==3.5
 regex==2020.10.15
 scipy==1.5.3
 tqdm==4.50.2
-eautifulsoup4==4.9.3
+beautifulsoup4==4.9.3
