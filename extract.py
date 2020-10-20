@@ -3,6 +3,7 @@ import re
 import os
 import csv
 import nltk
+nltk.download('punkt')
 import string
 from os import listdir
 from itertools import product
